@@ -46,3 +46,34 @@
     cursor: pointer;
     
 }
+
+.twitter-cat-img {
+width: 100px;
+height: 100px;
+border-radius: 100px;
+object-fit: cover;
+object-position: center;
+vertical-align: middle;
+margin-top: 30px;
+
+}
+
+.twitter-cat {
+    font-family: Arial;
+    font-size: 10px;
+    font-weight: normal;
+    color: darkgray;
+    vertical-align: middle;
+}
+
+.twitter-button-cat {
+background-color: rgb(50, 50, 227);
+color: white;
+width: 80px;
+cursor: pointer;
+border-radius: 20px;
+border: none;
+padding: 15px 15px 15px 15px;
+vertical-align: middle;
+
+}
