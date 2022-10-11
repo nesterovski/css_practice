@@ -25,6 +25,7 @@
     padding-top: 5px;
     padding-bottom: 7px;
     
+    
 }
 
 
@@ -32,6 +33,7 @@
     font-family: Arial;
     font-size: 10px;
     font-weight: normal;
+    color: darkgray;
 }
 
 .agree-button {
@@ -39,5 +41,8 @@
     color: white;
     border-radius: 20px;
     border: none;
+    padding: 15px 15px 15px 15px;
+    width: 150px;
+    cursor: pointer;
     
 }
