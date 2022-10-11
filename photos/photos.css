@@ -1,0 +1,28 @@
+
+
+
+.sample {
+    background-color: red;
+    }
+
+.putin {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.putin2 {
+    width: 170px;
+    height: 170x;
+    object-fit: cover;
+
+    
+}
+
+.putin3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+
+}
