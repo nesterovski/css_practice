@@ -1,0 +1,120 @@
+
+
+
+.search-bar {
+    border-radius: 3px;
+}
+
+
+.twitter-cat-img {
+width: 350px;
+height: 350x;
+display: block;
+object-fit: cover;
+object-position: center;
+
+
+
+}
+
+.ex1 {
+    display: block;
+    
+
+}
+
+
+.new-ex {
+    background-color: bisque;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ex2 {
+    display: inline-block;
+    
+
+}
+
+
+.ex2-button {
+    display: inline-block;
+}
+
+.google-logo {
+    width: 300px;
+    margin-top: 30px;
+    display: block;
+    margin-left: 450px;
+
+}
+
+.google-search {
+    border-radius: 30px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    margin-left: 475px;
+}
+
+.email-ex4 {
+    display: block;
+    width: 315px;
+}
+
+
+.field-input-ex4, .email-ex4 {
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    border: solid 1px;
+    border-color: rgb(212, 225, 236);
+}
+
+.button-ex-4 {
+    width: 340px;
+    cursor: pointer;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: rgb(52, 86, 200);
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+
+.uber-title {
+
+font-size: 30px;
+}
+
+.input-location, .input-destination {
+display: block;
+padding: 10px 10px 10px 10px;
+background-color: rgb(242, 242, 242);
+border: none;
+}
+
+
+.button-request{
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.button-shedule {
+
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(242, 242, 242);
+    color: black;
+    border: none;
+}
+
+.uber-buttons {
+    margin-top: 15px;
+}
