@@ -1,0 +1,50 @@
+.wrapper {
+    
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    
+
+}
+
+.wrapper2 {
+    
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px;
+    margin-top: 30px;
+
+}
+
+.grid-element1 {
+    background-color: lightblue;
+}
+
+.grid-element2 {
+    background-color: lightgreen;
+}
+
+.grid-element3 {
+    background-color: lightpink;
+}
+
+.grid-element4 {
+    background-color: lightslategrey;
+}
+
+.grid-element5 {
+    background-color: lightcoral;
+}
+
+.grid-element6 {
+    background-color: lightseagreen;
+}
+
+.wrapper3 {
+    
+
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    margin-top: 30px;
+
+}

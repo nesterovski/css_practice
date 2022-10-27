@@ -1,0 +1,55 @@
+.new-ex {
+    background-color: bisque;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.search-bar {
+    border-radius: 3px;
+    display: block;
+}
+
+
+.cat-img {
+width: 100%;
+object-fit: cover;
+object-position: center;
+display: block;
+
+}
+
+
+.author-pic {
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 15px;
+    
+    
+   
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+    margin-right: 200px;
+    margin-top: 20px;
+    
+}
+
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-info {
+    margin-left: 15px;
+}
+
+
+
+
+
+

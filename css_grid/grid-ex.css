@@ -1,0 +1,86 @@
+
+p {
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+.fb-grid {
+
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+    
+    
+
+}
+
+.contact {
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.author-info {
+
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    
+   
+}
+
+.author-mutual {
+    font-size: 7px;
+    font-weight: 400;
+    margin-left: -15px;
+}
+
+
+.author-pic {
+
+        width: 100%;
+        
+
+}
+
+.author-name {
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+
+.author-preview-round {
+
+    width: 28px;
+    border-radius: 50%;
+
+}
+
+
+.author-mutual {
+
+
+}
+
+
+.button {
+
+    background-color: rgb(49, 94, 194);
+    color: white;
+    padding: 5px 5px 5px 5px ;
+    margin-top: 3px;
+    width: 100px;
+    font-weight: 300;
+    font-size: 7px;
+    border: none;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    cursor: pointer;
+
+}

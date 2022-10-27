@@ -1,21 +1,149 @@
-
+.new-ex {
+    background-color: bisque;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 
 .search-bar {
     border-radius: 3px;
+    display: block;
 }
 
 
-.twitter-cat-img {
+.cat-img, .dog-img {
 width: 350px;
-height: 350x;
-display: block;
+height: 197x;
 object-fit: cover;
 object-position: center;
 
 
+}
+
+
+.dog-img {
+    width: 350px;
+    height: 197px;
+    object-fit: cover;
+    object-position: center;
+    
+    }
+
+.video-block1 {
+
+    display: inline-block;
+    border: solid 1px;
+
+}
+
+.video-block2 {
+    display: inline-block;
+    margin-left: 20px;
+    border: solid 1px;
+    
+}
+
+.twitter-cat-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 2px;
+    margin-left: 20px;
+    
+    }
+    
+    .twitter-cat {
+        font-family: Arial;
+        font-size: 10px;
+        font-weight: normal;
+        color: darkgray;
+        vertical-align: middle;
+        display: inline-block;
+        margin-left: 20px;
+        margin-bottom: 55px;
+    }
+    
+    .twitter-button-cat {
+    background-color: rgb(50, 50, 227);
+    color: white;
+    width: 60px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    vertical-align: middle;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    
+    }
+
+.twitter-area {
+    display: inline-block;
+    
+    border-radius: 10px;
+    width: 350px;
+    height: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.fb-contact {
+
+    margin-left: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    border-radius: 2px;
+
+}
+
+.user-image {
+
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    object-position: 46% 50%;
+    
 
 }
 
 
+.username {
+
+    font-weight: 400;
+    
+    margin-top: -1px;
+    color: black;
+    font-size: 10px;
+    margin-left: 3px;
+
+}
+
+.user-mutual {
+
+    
+    margin-top: -7px;
+    color: grey;
+    font-size: 8px;
+    margin-left: 3px;
+}
+
+.button-add {
+
+    background-color: rgb(49, 94, 194);
+    color: white;
+    padding: 5px 5px 5px 5px ;
+    margin-top: 3px;
+    width: 54px;
+    font-weight: 300;
+    font-size: 7px;
+    border: none;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    
+
+
+}
 
