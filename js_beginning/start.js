@@ -17,3 +17,11 @@ console.log(CapsInfo);
 
 let ReplaceInfo = info.replace("code", "replacement");
 console.log(ReplaceInfo);
+
+// ниже тренируюсь над template strings `` (именно в таких скобках надо, находится где буква Ё)
+
+let author = "Andrew Galyatkin";
+let budget = 5000;
+let result = `This person ${author} has a budget of ${budget} $`;
+console.log(result);
+
