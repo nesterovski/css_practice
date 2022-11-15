@@ -1,1 +1,1 @@
-console.log('null practice');
+// в этом файле узнаю про null, undefined, booleans, comparisons
